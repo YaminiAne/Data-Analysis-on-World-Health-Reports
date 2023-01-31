@@ -28,6 +28,6 @@ Information from the Gallup World Poll is used to calculate the happiness rating
 
 These factors are thought to be raising life assessments around the globe. The best life is represented by a number closer to 10, while the opposite case is indicated by a score closer to 0.
 
-Now that we have understood how the happiness score is calculated and how rankings are awarded to nations, let us dive into analyzing the happiness reports of 2020, 2021 and 2022. </br>
-
 You can find the data analysis code in this repository.
+For the insights drawn from this data analysis and for a better understanding of the process, you can read the following article written by me.
+> https://www.analyticsvidhya.com/blog/2023/01/analysing-world-happiness-report-2020-2022/
